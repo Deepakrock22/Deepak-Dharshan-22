@@ -1,0 +1,19 @@
+{
+    "schools" : [{
+        "logo" : "./img/MIT.png",
+        "name" : "Madras Institue of Technology",
+        "degree" : "Master of Business Administration - MBA, Technology management ",
+        "time" : "2022 - 2024"
+    },{
+        "logo" : "./img/MIT.png",
+        "name" : "Dr.Mahalingam College of Engineering and Technology",
+        "degree" : "Bachelor of Engineering - BE Mechatronics Engineering",
+        "time" : "2018 - 2022"
+    },{
+        "logo" : "./img/VNI.png",
+        "name" : "Vidya Nethrra Matric Higher Secondary School",
+        "degree" : "Higher Secondary Schooling",
+        "time" : "2016 - 2018"
+    }
+   ]
+}

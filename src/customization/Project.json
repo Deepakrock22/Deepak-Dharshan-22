@@ -1,0 +1,26 @@
+{
+    "projects" : [
+        {
+            "project_img" : "./img/demo.png",
+            "project_name" : "profile-site",
+            "project_about" : "profile-site is a personal website template, which is made in macos terminal style; the project is built by React",
+            "project_tool" : "React, Node, CSS, HTML",
+            "project_link" : " "
+        },
+        {
+            "project_img" : "./img/MOBAT.png",
+            "project_name" : "Autonomous Vehicle Simulation Using MATLAB",
+            "project_about" : "  ",
+            "project_tool" : "MATLAB, Python",
+            "project_link" : "link to the project, GitHub or others"
+        }
+        {
+            "project_img" : "./img/Viper.png",
+            "project_name" : "Responsive Photo Gallery Site",
+            "project_about" : " ",
+            "project_tool" : "HTML, CSS, JS",
+            "project_link" : " "
+        }
+
+    ]
+}

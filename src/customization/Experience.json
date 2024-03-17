@@ -1,0 +1,26 @@
+{
+    "companies" : [
+        {
+            "logo" : "./img/Wildcraft.png",
+            "name" : "Wildcraft India Ltd",
+            "position_time" : "Business Development Executive",
+            "duration" : "Sep 2022 - Present",
+            "discription" : "Expert in analyzing business processes, data, and systems to drive strategic decision-making & improve operational efficiency. Operation : Execution of tasks and processes within an organization, ensuring smooth functionality and achievement of objectives. "
+        },
+        {
+            "logo" : "./img/Wildcraft.png",
+            "name" : "Wildcraft India Ltd",
+            "position_time" : "CRM Administration & Development Intern",
+            "duration" : "Mar 2022 - Sep 2022",
+            "discription" : "Key contributor in the development of innovative features and successful implementation of the CRM site, instrumental in enhancing organizational efficiency by optimizing process flows."
+        },
+        {
+            "logo" : "./img/Techsnap.png",
+            "name" : "Python Blogger Intern",
+            "position_time" : "TECHSNAP",
+            "duration" : "Aug 2021 - Sep 2021",
+            "discription" : "Member of an agile blogging team, responsible for crafting Python-focused content for an online EdTech platform, delivering engaging and informative articles to enhance learning experiences."
+        }
+
+    ]
+}
